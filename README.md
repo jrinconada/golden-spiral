@@ -1,5 +1,4 @@
-# [Golden Spiral](https://editor.p5js.org/JuanRP/present/x7LyGkHe9 "Golden Spiral Web App")
-Spiral generation with different arm rate until Phi
+# Some samples
 
 ![](multispiral.gif)  |  ![](goldenspiral.gif)
 :-------------------------:|:-------------------------:
